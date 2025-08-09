@@ -1,13 +1,12 @@
 # Curso de Posgrado: 
 ## Modelado y estimación de ocupación para poblaciones y comunidades de especies bajo enfoque Bayesiano
 
-:::{.center}
-![](img/flyercurso.jpg){width=70%}
+![](img/flyercurso.jpg)
 
-![](img/flyercurso2.jpg){width=70%}
+![](img/flyercurso2.jpg)
 
-![](img/flyercurso3.jpg){width=70%}
-:::
+![](img/flyercurso3.jpg)
+
 
 _________________________________________________________________________
 
@@ -21,73 +20,51 @@ Para quienes estén interesados/as,  los invitamos a llenar el formulario de pre
 
 **Departamento de Ciencias Básicas, Universidad Nacional de Luján**
 
+------------------------------------------------------------------------
 
-_________________________________________________________________________
+
+<img src="img/logounlu.png" align="left" height="200" alt="" /> 
+<img src="img/LogoBNBasicas.png" align="left" height="200" alt="" />
+
+------------------------------------------------------------------------
 
 ## Programa del curso
 
-::: {.center}
-![Logo UNLu](img/logounlu.png){width=10%}
-![Logo Departamento de Ciencias Básicas](img/LogoBNBasicas.png){width=10%}
 
 **UNIVERSIDAD NACIONAL DE LUJAN**
 
 **DEPARTAMENTO DE CIENCIAS BÁSICAS**
 
-**[CURSO DE POSGRADO:]{.underline}**
+**CURSO DE POSGRADO:**
 
-  -----------------------------------------------------------------------
-  **Modelado y estimación de ocupación para poblaciones y comunidades de
-  especies bajo enfoque Bayesiano**
+## Modelado y estimación de ocupación para poblaciones y comunidades de especies bajo enfoque Bayesiano
 
-  -----------------------------------------------------------------------
+|Docentes |  |   |
+| :---- | :---- | :---- |
+| Responsable Académica | Rojo Verónica | Doctora en Ciencias Agrarias y Forestales |    
+| Docente       | Goijman  Andrea Paula     | PhD in Forest Resources, Wildlife Ecology and Management |
+| Colaboradores | Duhour Andrés Esteban   | Doctor en Ciencia y Tecnología |
+|               | Díaz Porres Mónica     | Doctora en Ciencias Biológicas  |
+|               | Bessega Florencia     | Licenciada en Ciencias Biológicas |
+|               | Carreras Ángeles Araceli  | Licenciada en Biodiversidad   |
+| | | |
+## Carga horaria: 45 horas   
 
-+---------------+------------+------------------+-----------------+
-| ## Docentes                                                     |
-+---------------+------------+------------------+-----------------+
-| Responsable   | Rojo       | Verónica         | Doctora en      |
-| Académica     |            |                  | Ciencias        |
-|               |            |                  | Agrarias y      |
-|               |            |                  | Forestales      |
-+---------------+------------+------------------+-----------------+
-| Docente       | Goijman    | Andrea Paula     | PhD in Forest   |
-|               |            |                  | Resources,      |
-|               |            |                  | Wildlife        |
-|               |            |                  | Ecology and     |
-|               |            |                  | Management      |
-+---------------+------------+------------------+-----------------+
-| Colaboradores | Duhour     | Andrés Esteban   | Doctor en       |
-|               |            |                  | Ciencia y       |
-|               |            |                  | Tecnología      |
-+---------------+------------+------------------+-----------------+
-|               | Díaz       | Mónica           | Doctora en      |
-|               | Porres     |                  | Ciencias        |
-|               |            |                  | Biológicas      |
-+---------------+------------+------------------+-----------------+
-|               | Bessega    | Florencia        | Licenciada en   |
-|               |            |                  | Ciencias        |
-|               |            |                  | Biológicas      |
-+---------------+------------+------------------+-----------------+
-|               | Carreras   | Angeles Araceli  | Licenciada en   |
-|               |            |                  | Biodiversidad   |
-+---------------+------------+------------------+-----------------+
+
+## Objetivos y contenidos:      
 
 +-----------------------------------------------------------------------+
-| ## Carga horaria: 45 horas                                            |
-+-----------------------------------------------------------------------+
-
-+-----------------------------------------------------------------------+
-| ## Objetivos y contenidos:                                            |
 |                                                                       |
-| **Objetivos:**                                                        |
 |                                                                       |
-| \- Introducir al estudiante en los modelos de ocupación con detección |
+|**Objetivos:**                                                         |
+|                                                                       |
+| - Introducir al estudiante en los modelos de ocupación con detección  |
 | imperfecta de especies.                                               |
 |                                                                       |
-| \- Que los estudiantes comprendan los fundamentos del enfoque         |
+| - Que los estudiantes comprendan los fundamentos del enfoque          |
 | bayesiano.                                                            |
 |                                                                       |
-| \- Realizar aplicaciones estos modelos, mediante programación en R,   |
+| - Realizar aplicaciones estos modelos, mediante programación en R,    |
 | al estudio de casos en agroecosistemas.                               |
 |                                                                       |
 | **Programa sintético:**                                               |
@@ -104,36 +81,36 @@ _________________________________________________________________________
 |                                                                       |
 | **Programa analítico:**                                               |
 |                                                                       |
-| • Conceptos básicos de estadística: Tipos de modelos y rol de los     |
+| - Conceptos básicos de estadística: Tipos de modelos y rol de los     |
 | modelos en ciencia - Modelos estadísticos - Distribuciones de         |
 | probabilidad - Probabilidad, verosimilitud - Precisión, sesgo,        |
 | exactitud.                                                            |
 |                                                                       |
-| • Introducción al enfoque Bayesiano: Comparación de inferencia        |
+| - Introducción al enfoque Bayesiano: Comparación de inferencia        |
 | frecuentista y Bayesiana - Inferencia Bayesiana y Teorema de Bayes    |
 | -Componentes - Modelos jerárquicos - Ventajas y desventajas           |
 |                                                                       |
-| • Modelos lineales generalizados con enfoque Bayesiano: Uso de        |
+| - Modelos lineales generalizados con enfoque Bayesiano: Uso de        |
 | interfase R-JAGS para análisis Bayesianos -- GLM -- Introducción a    |
 | efectos aleatorios y GLMM -- GLMM Poisson y Binomial                  |
 |                                                                       |
-| • Modelos de ocupación para poblaciones: Solo una estación - Con      |
+| - Modelos de ocupación para poblaciones: Solo una estación - Con      |
 | covariables - Estaciones múltiples                                    |
 |                                                                       |
-| • Modelos de Ocupación de comunidades.                                |
+| - Modelos de Ocupación de comunidades.                                |
 +-----------------------------------------------------------------------+
 
+## Evaluación del curso:                                              
+
+### Requisitos para acceder al certificado de asistencia:
 +-----------------------------------------------------------------------+
-| ## Evaluación del curso:                                              |
-|                                                                       |
-| **Requisitos para acceder al certificado de aprobación**              |
-|                                                                       |
-| ## Requisitos para acceder al certificado de asistencia:              |
 |                                                                       |
 | Deberán asistir al 75 % de las clases como mínimo y realizar y        |
 | entregar los ejercicios prácticos de todas las clases.                |
-|                                                                       |
-| # Requisitos para acceder al certificado de aprobación:               |
++-----------------------------------------------------------------------+
+
+### Requisitos para acceder al certificado de aprobación:  
++-----------------------------------------------------------------------+
 |                                                                       |
 | La evaluación consistirá en la presentación de un trabajo final       |
 | grupal que deberán entregar para su corrección 15 días después de     |
@@ -142,8 +119,9 @@ _________________________________________________________________________
 | trabajo final.                                                        |
 +-----------------------------------------------------------------------+
 
+## Bibliografía:      
+
 +-----------------------------------------------------------------------+
-| ## Bibliografía:                                                      |
 |                                                                       |
 | 1.  Goijman, A. P., Conroy, M. J., Bernardos, J. N., and              |
 |     Zaccagnini, M. E. 2015. Multi-season regional analysis of         |
@@ -181,8 +159,9 @@ _________________________________________________________________________
 |     Academic Press.                                                   |
 +-----------------------------------------------------------------------+
 
+## Período de desarrollo: 
+
 +-----------------------------------------------------------------------+
-| ## Período de desarrollo:                                             |
 |                                                                       |
 | Lunes 27 de octubre de 2025 al viernes 31 de octubre de 2025.         |
 |                                                                       |
@@ -193,14 +172,15 @@ _________________________________________________________________________
 | horaria propuesta.                                                    |
 +-----------------------------------------------------------------------+
 
+## Modalidad: Presencial 
+
 +-----------------------------------------------------------------------+
-| ## Modalidad: Presencial                                              |
 |                                                                       |
 | **Sede de dictado:** Luján                                            |
 +-----------------------------------------------------------------------+
 
+## Requisitos de inscripción:
 +-----------------------------------------------------------------------+
-| ## Requisitos de inscripción:                                         |
 |                                                                       |
 | **Título requerido:**                                                 |
 |                                                                       |
@@ -220,8 +200,8 @@ _________________________________________________________________________
 |     puedan realmente aprovechar el curso).                            |
 +-----------------------------------------------------------------------+
 
+## Límite de inscriptos:
 +-----------------------------------------------------------------------+
-| ## Límite de inscriptos:                                              |
 |                                                                       |
 |   --------------------------------------                              |
 |   **MÁXIMO:** **20** **MÍNIMO:** **5**                                |
@@ -237,10 +217,10 @@ _________________________________________________________________________
 | las y los docentes de la Universidad Nacional de Luján.               |
 +-----------------------------------------------------------------------+
 
+## Arancel de inscripción: 
 +-----------------------------------------------------------------------+
-| ## Arancel de inscripción:                                            |
 |                                                                       |
 | Graduados y docentes de la UNLu SIN ARANCEL, otros inscriptos \$      |
 | 40000 (pesos cuarenta mil)                                            |
 +-----------------------------------------------------------------------+
-:::
+
