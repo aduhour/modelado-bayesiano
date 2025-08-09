@@ -1,11 +1,11 @@
 # Curso de Posgrado: 
 ## Modelado y estimación de ocupación para poblaciones y comunidades de especies bajo enfoque Bayesiano
 
-![](img/flyercurso.jpg){width=50%}
+![](img/flyercurso.jpg)
 
-![](img/flyercurso2.jpg){width=50%}
+![](img/flyercurso2.jpg)
 
-![](img/flyercurso3.jpg){width=50%}
+![](img/flyercurso3.jpg)
 
 
 _________________________________________________________________________
@@ -26,7 +26,7 @@ _________________________________________________________________________
 <img src="img/logounlu.png" align="left" height="200" alt="" /> 
 <img src="img/LogoBNBasicas.png" align="left" height="200" alt="" />
 
-
+_________________________________________________________________________
 ## Programa del curso
 
 
@@ -35,6 +35,8 @@ _________________________________________________________________________
 **DEPARTAMENTO DE CIENCIAS BÁSICAS**
 
 **CURSO DE POSGRADO:**
+
+
 
 ## Modelado y estimación de ocupación para poblaciones y comunidades de especies bajo enfoque Bayesiano
 
