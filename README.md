@@ -1,18 +1,17 @@
 # Curso de Posgrado: 
 ## Modelado y estimación de ocupación para poblaciones y comunidades de especies bajo enfoque Bayesiano
 
-![](img/flyercurso.jpg)
-
-![](img/flyercurso2.jpg)
-
-![](img/flyercurso3.jpg)
-
+![](img/27octubre__goijman.jpg)
 
 _________________________________________________________________________
 
 Les compartimos la información de este curso de posgrado que se estará dictando en la sede central de la Universidad Nacional de Luján, entre los días 27 al 31 de octubre de este año. 
 
-Para quienes estén interesados/as,  los invitamos a llenar el formulario de pre-inscripción,  mediante el código QR o en el [enlace](https://ee.kobotoolbox.org/x/EdVZiZAE).
+Para quienes estén interesados/as,  los invitamos a llenar el formulario de pre-inscripción,  mediante el código QR o en el [enlace](https://ee.kobotoolbox.org/x/EdVZiZAE). Allí solicitamos información para facilitar la organización.
+
+¡Ya está abierta la inscripción! Para inscribirse formalmente ante la UNLu deberán completar el siguiente [formulario](https://docs.google.com/forms/d/e/1FAIpQLSclFr13DXUhUSDhpOKtwDTr4Woqp6XynAbRc7N5-RR-1wImag/viewform?usp=send_form).
+
+Por consultas escribir a  programasacademicosunlu@gmail.com
 
 ¡Los esperamos en la UNLu!
 
@@ -221,4 +220,8 @@ _________________________________________________________________________
                                                                            
    Graduados y docentes de la UNLu SIN ARANCEL, otros inscriptos $ 40000 (pesos cuarenta mil)                                              
  
+![](img/flyercurso.jpg)
 
+![](img/flyercurso2.jpg)
+
+![](img/flyercurso3.jpg)
